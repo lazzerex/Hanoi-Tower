@@ -1,0 +1,7 @@
+E:\CSharp_Repo\HanoiTower\HanoiTower\bin\Debug\HanoiTower.exe.config
+E:\CSharp_Repo\HanoiTower\HanoiTower\bin\Debug\HanoiTower.exe
+E:\CSharp_Repo\HanoiTower\HanoiTower\bin\Debug\HanoiTower.pdb
+E:\CSharp_Repo\HanoiTower\HanoiTower\obj\Debug\HanoiTower.csproj.AssemblyReference.cache
+E:\CSharp_Repo\HanoiTower\HanoiTower\obj\Debug\HanoiTower.csproj.CoreCompileInputs.cache
+E:\CSharp_Repo\HanoiTower\HanoiTower\obj\Debug\HanoiTower.exe
+E:\CSharp_Repo\HanoiTower\HanoiTower\obj\Debug\HanoiTower.pdb
